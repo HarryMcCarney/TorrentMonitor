@@ -23,6 +23,7 @@ namespace TorrentMonitor.Api
         {
             RegisterDependencies();
             host.Start();
+
         }
 
         public void Stop()
