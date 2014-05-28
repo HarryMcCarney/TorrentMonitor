@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TorrentMonitor.Api</id>
+    <version>$version$</version>
+    <title>TorrentMonitor.Api</title>
+    <authors>Harry McCarney</authors>
+    <owners>Harry McCarney</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TorrentMonitor.Api</description>
+    <releaseNotes>TorrentMonitor.Api</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>TorrentMonitor.Api</tags>
+  </metadata>
+</package>
