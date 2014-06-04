@@ -16,15 +16,5 @@ namespace TorrentMonitor.Api.Modules
             return Response.AsJson(proxies);
         }
 
-        private bool ResolveStatus(string img)
-        {
-            if (img.Contains("up"))
-                return true;
-            return false;
-        }
-
-
-
-
-    }
+      }
 }
